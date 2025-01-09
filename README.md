@@ -24,8 +24,8 @@ This script demonstrates how to use [Nodemailer](https://nodemailer.com/) with N
 
 1. Clone or download the script:
    ```bash
-   git clone https://github.com/your-repo/nodemailer-script.git
-   cd nodemailer-script
+   git clone https://github.com/ankushjagadale40/Numetry_Task2_NodeMailer
+   cd email_node
    ```
 
 2. Install the required packages:
